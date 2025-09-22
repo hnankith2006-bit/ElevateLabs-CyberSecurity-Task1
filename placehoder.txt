@@ -1,0 +1,2 @@
+- A screenshot of the terminal showing the Nmap command being run.
+- A screenshot of the terminal showing the scan output.

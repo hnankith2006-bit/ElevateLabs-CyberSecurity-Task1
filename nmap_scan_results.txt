@@ -1,0 +1,18 @@
+Starting Nmap 7.92 ( https://nmap.org ) at 2025-09-22 19:30 IST
+Nmap scan report for 192.168.1.1
+Host is up (0.0031s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+MAC Address: AB:CD:EF:12:34:56 (Router-Vendor)
+
+Nmap scan report for 192.168.1.10
+Host is up (0.025s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT    STATE SERVICE
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+MAC Address: 12:34:56:AB:CD:EF (PC-Vendor)
+
+Nmap done: 256 IP addresses (2 hosts up) scanned in 5.12 seconds
